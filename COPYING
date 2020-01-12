@@ -1,0 +1,38 @@
+---------------------------------------------------------- Tremulous License ---
+
+Tremulous is licensed in two broadly separate sections: the code and the media. 
+
+The code is licensed under the GNU GENERAL PUBLIC LICENSE. This license is
+contained in full in the file named GPL. Please be aware of the exceptions to
+this license as listed below.
+
+The media is licensed under the CREATIVE COMMONS ATTRIBUTION-SHAREALIKE 2.5
+LICENSE. Please read http://creativecommons.org/licenses/by-sa/2.5/ to learn
+more about this license. The full license text is contained in the file named
+CC.
+
+
+---------------------------------------------------- Code License Exceptions ---
+
+The following files contain sections of code that are not licensed under the
+GPL, but are nevertheless GPL compatible. The license text for these licenses
+is contained within the files as listed.
+
+    src/qcommon/unzip.c                                         zlib license
+    src/game/bg_lib.c                                            BSD license
+    src/client/snd_adpcm.c            Stichting Mathematisch Centrum license
+    src/jpeg-6/*                                                JPEG license
+
+assets/ui/main_menu_music/Finally_Heartbeat.ogg:
+    "Finally Heartbeat" by Avarthar licensed CC-BY-SA-3.0
+    based on "C'Mon" by Analog by Nature, licensed CC-BY-3.0
+    and samples from "Tremulous" game assets, licensed CC-BY-SA-3.0
+
+assets/ui/main_menu_music/tremfusion_heartbeat.ogg:
+    by Vortexx licensed CC-BY-SA-2.5
+
+assets/ui/main_menu_music/Black_mistUntiteled_3.ogg:
+    by AutumnLegends licensed CC-BY-NC-SA-3.0
+
+assets/ui/main_menu_music/Granger_Foley_v1.ogg:
+    by Akane licensed CC-BY-SA-2.5
