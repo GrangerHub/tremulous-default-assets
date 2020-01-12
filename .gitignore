@@ -1,32 +1,43 @@
-# Prerequisites
-*.d
+build
+Makefile.local
+*.swp
+*tags
+misc/patches
+misc/last-merged-ioq3-revision.temp
+*~
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# OS X
+####################
+.Spotlight-V100/
+.Trashes/
+._*
+.AppleDouble
+.DS_Store
+.LSOverride
+Icon?
 
-# Precompiled Headers
-*.gch
-*.pch
+# Xcode
+####################
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+*.user
+*.xcuserstate
+*.moved-aside
+*~.nib
+.idea/
+DerivedData/
+project.xcworkspace/
+xcuserdata/
+profile
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Microsoft Visual Studio
+####################
+*.sdf
+*.opensdf
+*.suo
